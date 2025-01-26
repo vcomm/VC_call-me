@@ -14,7 +14,7 @@
         "decentralized"
     ],
     "scripts": {
-        "start": "node app/server.js",
+        "start": "cp .env.template .env && node app/server.js",
         "dev": "nodemon app/server.js",
         "lint": "npx prettier --write ."
     },
