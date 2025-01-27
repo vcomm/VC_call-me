@@ -1,12 +1,12 @@
 {
-    "name": "call-me",
-    "version": "1.0.65",
-    "description": "Your Go-To for Instant Video Calls",
-    "author": "Miroslav Pejic - miroslav.pejic.85@gmail.com",
+    "name": "vc_call-me",
+    "version": "1.0.1",
+    "description": "psychological mental service by instant Video Calls",
+    "author": "VCOMM",
     "license": "AGPLv3",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/miroslavpejic85/call-me.git"
+        "url": "git+https://github.com/vcomm/VC_call-me.git"
     },
     "keywords": [
         "docker",
